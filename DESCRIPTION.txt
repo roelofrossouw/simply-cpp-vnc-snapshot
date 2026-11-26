@@ -1,0 +1,1 @@
+C++20 VNC (RFB) client that takes one screenshot of a VNC server, e.g. an iDRAC console, as PNG
